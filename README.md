@@ -1,2 +1,3 @@
 # Tutorial-Python
-Aqui neste repositório está um mini tutorial da linguagem Python
+Aqui neste repositório está um tutorial da linguagem Python
+Referencias : https://www.w3schools.com/python
